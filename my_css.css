@@ -64,8 +64,9 @@
     color:#888;
   }
   th,td{
-    padding: 6px;
+    padding: 8px;
     border: 1px solid black;
+    text-align: center;
   }
   
   tr:hover {background-color:burlywood;}
